@@ -26,7 +26,7 @@ export default function Home() {
               浏览项目
             </Link>
             <a 
-              href="https://github.com/zj591227045" 
+              href="https://github.com/jingyi0605" 
               target="_blank" 
               rel="noopener noreferrer"
               className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-white hover:text-primary-600 transition-colors flex items-center justify-center space-x-2"

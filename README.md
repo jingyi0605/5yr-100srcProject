@@ -8,9 +8,9 @@
 
 **🤖 AI辅助开发 | AI-Assisted Development 🤖**
 
-![GitHub stars](https://img.shields.io/github/stars/zj591227045/3yr-100srcProject?style=social)
-![GitHub forks](https://img.shields.io/github/forks/zj591227045/3yr-100srcProject?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/zj591227045/3yr-100srcProject?style=social)
+![GitHub stars](https://img.shields.io/github/stars/jingyi0605/5yr-100srcProject?style=social)
+![GitHub forks](https://img.shields.io/github/forks/jingyi0605/5yr-100srcProject?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/jingyi0605/5yr-100srcProject?style=social)
 
 [English](#english) | [中文](#中文)
 
@@ -37,7 +37,7 @@
 
 ### 📊 当前进展
 
-目前已完成 **8** 个项目，进度：8/100 (8%)
+目前已完成 **16** 个项目，进度：16/100 (16%)
 
 #### 已完成项目列表
 
@@ -48,7 +48,7 @@
 **1. AI-Debate** 
 - **描述**: 基于AI模型的辩论平台，支持角色定制、实时评分和多种辩论格式
 - **发布**: 2025年3月
-- **链接**: [GitHub](https://github.com/zj591227045/Ai-Debate) ![Stars](https://img.shields.io/github/stars/zj591227045/Ai-Debate?style=flat-square) ![Forks](https://img.shields.io/github/forks/zj591227045/Ai-Debate?style=flat-square)
+- **链接**: [GitHub](https://github.com/jingyi0605/Ai-Debate) ![Stars](https://img.shields.io/github/stars/jingyi0605/Ai-Debate?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/Ai-Debate?style=flat-square)
 
 </td>
 <td width="50%">
@@ -56,7 +56,7 @@
 **2. DeepStressModel**
 - **描述**: AI模型压力测试工具，评估模型性能和稳定性
 - **发布**: 2025年3月
-- **链接**: [GitHub](https://github.com/zj591227045/DeepStressModel) ![Stars](https://img.shields.io/github/stars/zj591227045/DeepStressModel?style=flat-square) ![Forks](https://img.shields.io/github/forks/zj591227045/DeepStressModel?style=flat-square)
+- **链接**: [GitHub](https://github.com/jingyi0605/DeepStressModel) ![Stars](https://img.shields.io/github/stars/jingyi0605/DeepStressModel?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/DeepStressModel?style=flat-square)
 
 </td>
 </tr>
@@ -66,7 +66,7 @@
 **3. astrbot_plugin_Merge_WeMSG**
 - **描述**: 适用于AstrBot的微信聊天消息合并插件
 - **发布**: 2025年4月
-- **链接**: [GitHub](https://github.com/zj591227045/astrbot_plugin_Merge_WeMSG) ![Stars](https://img.shields.io/github/stars/zj591227045/astrbot_plugin_Merge_WeMSG?style=flat-square) ![Forks](https://img.shields.io/github/forks/zj591227045/astrbot_plugin_Merge_WeMSG?style=flat-square)
+- **链接**: [GitHub](https://github.com/jingyi0605/astrbot_plugin_Merge_WeMSG) ![Stars](https://img.shields.io/github/stars/jingyi0605/astrbot_plugin_Merge_WeMSG?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/astrbot_plugin_Merge_WeMSG?style=flat-square)
 
 </td>
 <td>
@@ -74,7 +74,7 @@
 **4. WXAUTO-MGT**
 - **描述**: 微信自动化管理系统，提供微信机器人管理和监控功能
 - **发布**: 2025年5月
-- **链接**: [GitHub](https://github.com/zj591227045/WXAUTO-MGT) ![Stars](https://img.shields.io/github/stars/zj591227045/WXAUTO-MGT?style=flat-square) ![Forks](https://img.shields.io/github/forks/zj591227045/WXAUTO-MGT?style=flat-square)
+- **链接**: [GitHub](https://github.com/jingyi0605/WXAUTO-MGT) ![Stars](https://img.shields.io/github/stars/jingyi0605/WXAUTO-MGT?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/WXAUTO-MGT?style=flat-square)
 
 </td>
 </tr>
@@ -84,7 +84,7 @@
 **5. WXAUTO-HTTP-API**
 - **描述**: 微信自动化HTTP API接口，支持远程调用微信功能
 - **发布**: 2025年5月
-- **链接**: [GitHub](https://github.com/zj591227045/WXAUTO-HTTP-API) ![Stars](https://img.shields.io/github/stars/zj591227045/WXAUTO-HTTP-API?style=flat-square) ![Forks](https://img.shields.io/github/forks/zj591227045/WXAUTO-HTTP-API?style=flat-square)
+- **链接**: [GitHub](https://github.com/jingyi0605/WXAUTO-HTTP-API) ![Stars](https://img.shields.io/github/stars/jingyi0605/WXAUTO-HTTP-API?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/WXAUTO-HTTP-API?style=flat-square)
 
 </td>
 <td>
@@ -92,7 +92,7 @@
 **6. 只为记账**
 - **描述**: 简洁高效的个人记账应用，支持多账户管理和数据分析
 - **发布**: 2025年6月
-- **链接**: [GitHub](https://github.com/zj591227045/zhiweijz) ![Stars](https://img.shields.io/github/stars/zj591227045/zhiweijz?style=flat-square) ![Forks](https://img.shields.io/github/forks/zj591227045/zhiweijz?style=flat-square)
+- **链接**: [GitHub](https://github.com/jingyi0605/zhiweijz) ![Stars](https://img.shields.io/github/stars/jingyi0605/zhiweijz?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/zhiweijz?style=flat-square)
 
 </td>
 </tr>
@@ -102,7 +102,7 @@
 **7. 只为记账-微信助手**
 - **描述**: 只为记账应用的微信机器人助手，支持语音记账和智能分类
 - **发布**: 2025年6月
-- **链接**: [GitHub](https://github.com/zj591227045/wxauto4zhiweijz) ![Stars](https://img.shields.io/github/stars/zj591227045/wxauto4zhiweijz?style=flat-square) ![Forks](https://img.shields.io/github/forks/zj591227045/wxauto4zhiweijz?style=flat-square)
+- **链接**: [GitHub](https://github.com/jingyi0605/wxauto4zhiweijz) ![Stars](https://img.shields.io/github/stars/jingyi0605/wxauto4zhiweijz?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/wxauto4zhiweijz?style=flat-square)
 
 </td>
 <td>
@@ -110,11 +110,22 @@
 **8. 智能导入工具**
 - **描述**: 只为记账的智能数据导入工具，支持多种格式转换和智能识别
 - **发布**: 2025年6月
-- **链接**: [GitHub](https://github.com/zj591227045/zhiweijz_import_records) ![Stars](https://img.shields.io/github/stars/zj591227045/zhiweijz_import_records?style=flat-square) ![Forks](https://img.shields.io/github/forks/zj591227045/zhiweijz_import_records?style=flat-square)
+- **链接**: [GitHub](https://github.com/jingyi0605/zhiweijz_import_records) ![Stars](https://img.shields.io/github/stars/jingyi0605/zhiweijz_import_records?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/zhiweijz_import_records?style=flat-square)
 
 </td>
 </tr>
 </table>
+
+#### 新增项目（2026）
+
+9. [CodingNS](https://github.com/jingyi0605/CodingNS)：跨桌面、移动端和 Web 的 AI 编程工作台。
+10. [Codingns4DSH](https://github.com/jingyi0605/Codingns4DSH)：将多种编程 Agent、持久终端和远程访问接入 DSH。
+11. [FamilyClaw](https://github.com/jingyi0605/FamilyClaw)：以家庭成员为中心的家庭 AI 操作系统。
+12. [calPaper](https://github.com/jingyi0605/calPaper)：支持离线使用的逐行计算 PWA。
+13. [quick_fshare](https://github.com/jingyi0605/quick_fshare)：支持本地文件、SMB 和 NFS 的私有文件分享系统。
+14. [X-File](https://github.com/jingyi0605/X-File)：从 CodingNS 拆出的文档库桌面应用。
+15. [pdf-page-reverser](https://github.com/jingyi0605/pdf-page-reverser)：浏览器本地 PDF 页面反转工具。
+16. [gpt_image_gen](https://github.com/jingyi0605/gpt_image_gen)：面向 GPT Image 兼容接口的图片生成与编辑工作台。
 
 ### 📅 下一步计划
 
@@ -164,7 +175,7 @@ This is an ambitious personal challenge: completing 100 open source projects in 
 
 ### 📊 Current Progress
 
-Currently completed **8** projects, progress: 8/100 (8%)
+Currently completed **16** projects, progress: 16/100 (16%)
 
 #### Completed Projects
 
@@ -175,7 +186,7 @@ Currently completed **8** projects, progress: 8/100 (8%)
 **1. AI-Debate** 
 - **Description**: AI model-based debate platform supporting character customization, real-time scoring, and multiple debate formats
 - **Release**: March 2025
-- **Link**: [GitHub](https://github.com/zj591227045/Ai-Debate) ![Stars](https://img.shields.io/github/stars/zj591227045/Ai-Debate?style=flat-square) ![Forks](https://img.shields.io/github/forks/zj591227045/Ai-Debate?style=flat-square)
+- **Link**: [GitHub](https://github.com/jingyi0605/Ai-Debate) ![Stars](https://img.shields.io/github/stars/jingyi0605/Ai-Debate?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/Ai-Debate?style=flat-square)
 
 </td>
 <td width="50%">
@@ -183,7 +194,7 @@ Currently completed **8** projects, progress: 8/100 (8%)
 **2. DeepStressModel**
 - **Description**: AI model stress testing tool for evaluating model performance and stability
 - **Release**: March 2025
-- **Link**: [GitHub](https://github.com/zj591227045/DeepStressModel) ![Stars](https://img.shields.io/github/stars/zj591227045/DeepStressModel?style=flat-square) ![Forks](https://img.shields.io/github/forks/zj591227045/DeepStressModel?style=flat-square)
+- **Link**: [GitHub](https://github.com/jingyi0605/DeepStressModel) ![Stars](https://img.shields.io/github/stars/jingyi0605/DeepStressModel?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/DeepStressModel?style=flat-square)
 
 </td>
 </tr>
@@ -193,7 +204,7 @@ Currently completed **8** projects, progress: 8/100 (8%)
 **3. astrbot_plugin_Merge_WeMSG**
 - **Description**: Chat message merging plugin for AstrBot
 - **Release**: April 2025
-- **Link**: [GitHub](https://github.com/zj591227045/astrbot_plugin_Merge_WeMSG) ![Stars](https://img.shields.io/github/stars/zj591227045/astrbot_plugin_Merge_WeMSG?style=flat-square) ![Forks](https://img.shields.io/github/forks/zj591227045/astrbot_plugin_Merge_WeMSG?style=flat-square)
+- **Link**: [GitHub](https://github.com/jingyi0605/astrbot_plugin_Merge_WeMSG) ![Stars](https://img.shields.io/github/stars/jingyi0605/astrbot_plugin_Merge_WeMSG?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/astrbot_plugin_Merge_WeMSG?style=flat-square)
 
 </td>
 <td>
@@ -201,7 +212,7 @@ Currently completed **8** projects, progress: 8/100 (8%)
 **4. WXAUTO-MGT**
 - **Description**: WeChat automation management system providing robot management and monitoring functions
 - **Release**: May 2025
-- **Link**: [GitHub](https://github.com/zj591227045/WXAUTO-MGT) ![Stars](https://img.shields.io/github/stars/zj591227045/WXAUTO-MGT?style=flat-square) ![Forks](https://img.shields.io/github/forks/zj591227045/WXAUTO-MGT?style=flat-square)
+- **Link**: [GitHub](https://github.com/jingyi0605/WXAUTO-MGT) ![Stars](https://img.shields.io/github/stars/jingyi0605/WXAUTO-MGT?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/WXAUTO-MGT?style=flat-square)
 
 </td>
 </tr>
@@ -211,7 +222,7 @@ Currently completed **8** projects, progress: 8/100 (8%)
 **5. WXAUTO-HTTP-API**
 - **Description**: WeChat automation HTTP API interface supporting remote WeChat functionality
 - **Release**: May 2025
-- **Link**: [GitHub](https://github.com/zj591227045/WXAUTO-HTTP-API) ![Stars](https://img.shields.io/github/stars/zj591227045/WXAUTO-HTTP-API?style=flat-square) ![Forks](https://img.shields.io/github/forks/zj591227045/WXAUTO-HTTP-API?style=flat-square)
+- **Link**: [GitHub](https://github.com/jingyi0605/WXAUTO-HTTP-API) ![Stars](https://img.shields.io/github/stars/jingyi0605/WXAUTO-HTTP-API?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/WXAUTO-HTTP-API?style=flat-square)
 
 </td>
 <td>
@@ -219,7 +230,7 @@ Currently completed **8** projects, progress: 8/100 (8%)
 **6. Only for Accounting (只为记账)**
 - **Description**: Simple and efficient personal accounting app with multi-account management and data analysis
 - **Release**: June 2025
-- **Link**: [GitHub](https://github.com/zj591227045/zhiweijz) ![Stars](https://img.shields.io/github/stars/zj591227045/zhiweijz?style=flat-square) ![Forks](https://img.shields.io/github/forks/zj591227045/zhiweijz?style=flat-square)
+- **Link**: [GitHub](https://github.com/jingyi0605/zhiweijz) ![Stars](https://img.shields.io/github/stars/jingyi0605/zhiweijz?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/zhiweijz?style=flat-square)
 
 </td>
 </tr>
@@ -229,7 +240,7 @@ Currently completed **8** projects, progress: 8/100 (8%)
 **7. WeChat Assistant for Accounting**
 - **Description**: WeChat bot assistant for Only for Accounting app, supporting voice recording and intelligent categorization
 - **Release**: June 2025
-- **Link**: [GitHub](https://github.com/zj591227045/wxauto4zhiweijz) ![Stars](https://img.shields.io/github/stars/zj591227045/wxauto4zhiweijz?style=flat-square) ![Forks](https://img.shields.io/github/forks/zj591227045/wxauto4zhiweijz?style=flat-square)
+- **Link**: [GitHub](https://github.com/jingyi0605/wxauto4zhiweijz) ![Stars](https://img.shields.io/github/stars/jingyi0605/wxauto4zhiweijz?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/wxauto4zhiweijz?style=flat-square)
 
 </td>
 <td>
@@ -237,11 +248,22 @@ Currently completed **8** projects, progress: 8/100 (8%)
 **8. Smart Import Tool**
 - **Description**: Intelligent data import tool for Only for Accounting, supporting multiple format conversion and smart recognition
 - **Release**: June 2025
-- **Link**: [GitHub](https://github.com/zj591227045/zhiweijz_import_records) ![Stars](https://img.shields.io/github/stars/zj591227045/zhiweijz_import_records?style=flat-square) ![Forks](https://img.shields.io/github/forks/zj591227045/zhiweijz_import_records?style=flat-square)
+- **Link**: [GitHub](https://github.com/jingyi0605/zhiweijz_import_records) ![Stars](https://img.shields.io/github/stars/jingyi0605/zhiweijz_import_records?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/zhiweijz_import_records?style=flat-square)
 
 </td>
 </tr>
 </table>
+
+#### New Projects (2026)
+
+9. [CodingNS](https://github.com/jingyi0605/CodingNS): Cross-platform AI coding workbench for desktop, mobile, and web.
+10. [Codingns4DSH](https://github.com/jingyi0605/Codingns4DSH): DSH integration for coding agents, persistent terminals, and remote access.
+11. [FamilyClaw](https://github.com/jingyi0605/FamilyClaw): Family-first home AI operating system.
+12. [calPaper](https://github.com/jingyi0605/calPaper): Offline line-by-line calculation PWA.
+13. [quick_fshare](https://github.com/jingyi0605/quick_fshare): Private file sharing for local files, SMB, and NFS.
+14. [X-File](https://github.com/jingyi0605/X-File): Standalone document-library desktop application extracted from CodingNS.
+15. [pdf-page-reverser](https://github.com/jingyi0605/pdf-page-reverser): Browser-local PDF page reversal tool.
+16. [gpt_image_gen](https://github.com/jingyi0605/gpt_image_gen): Static image generation and editing workbench for GPT Image-compatible APIs.
 
 ### 📅 Next Steps
 

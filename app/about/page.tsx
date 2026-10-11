@@ -204,7 +204,7 @@ export default function AboutPage() {
                 </h3>
                 <div className="space-y-3">
                   <a 
-                    href="https://github.com/zj591227045" 
+                    href="https://github.com/jingyi0605" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="flex items-center space-x-2 text-gray-600 hover:text-primary-600 transition-colors"

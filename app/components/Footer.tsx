@@ -31,7 +31,7 @@ export default function Footer() {
             <h3 className="text-lg font-semibold text-gray-900 mb-4">联系方式</h3>
             <div className="flex space-x-4">
               <a 
-                href="https://github.com/zj591227045" 
+                href="https://github.com/jingyi0605" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-primary-600 transition-colors"

@@ -30,7 +30,7 @@ export default function Navbar() {
               关于挑战
             </Link>
             <a 
-              href="https://github.com/zj591227045/5yr-100srcProject" 
+              href="https://github.com/jingyi0605/5yr-100srcProject" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center space-x-1 bg-primary-600 text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-primary-700 transition-colors"
@@ -63,7 +63,7 @@ export default function Navbar() {
                 关于挑战
               </Link>
               <a 
-                href="https://github.com/zj591227045/5yr-100srcProject" 
+                href="https://github.com/jingyi0605/5yr-100srcProject" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center space-x-1 text-primary-600 px-3 py-2 rounded-md text-base font-medium"
