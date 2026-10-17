@@ -114,18 +114,79 @@
 
 </td>
 </tr>
+<tr>
+<td>
+
+**9. CodingNS**
+- **描述**: 跨桌面、移动端和 Web 的 AI 编程工作台
+- **发布**: 2026年3月
+- **链接**: [GitHub](https://github.com/jingyi0605/CodingNS) ![Stars](https://img.shields.io/github/stars/jingyi0605/CodingNS?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/CodingNS?style=flat-square)
+
+</td>
+<td>
+
+**10. Codingns4DSH**
+- **描述**: 将多种编程 Agent、持久终端和远程访问接入 DSH
+- **发布**: 2026年9月
+- **链接**: [GitHub](https://github.com/jingyi0605/Codingns4DSH) ![Stars](https://img.shields.io/github/stars/jingyi0605/Codingns4DSH?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/Codingns4DSH?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**11. FamilyClaw**
+- **描述**: 以家庭成员为中心的家庭 AI 操作系统
+- **发布**: 2026年3月
+- **链接**: [GitHub](https://github.com/jingyi0605/FamilyClaw) ![Stars](https://img.shields.io/github/stars/jingyi0605/FamilyClaw?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/FamilyClaw?style=flat-square)
+
+</td>
+<td>
+
+**12. calPaper**
+- **描述**: 支持离线使用的逐行计算 PWA
+- **发布**: 2026年10月
+- **链接**: [GitHub](https://github.com/jingyi0605/calPaper) ![Stars](https://img.shields.io/github/stars/jingyi0605/calPaper?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/calPaper?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**13. quick_fshare**
+- **描述**: 支持本地文件、SMB 和 NFS 的私有文件分享系统
+- **发布**: 2025年6月
+- **链接**: [GitHub](https://github.com/jingyi0605/quick_fshare) ![Stars](https://img.shields.io/github/stars/jingyi0605/quick_fshare?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/quick_fshare?style=flat-square)
+
+</td>
+<td>
+
+**14. X-File**
+- **描述**: 从 CodingNS 拆出的文档库桌面应用
+- **发布**: 2026年6月
+- **链接**: [GitHub](https://github.com/jingyi0605/X-File) ![Stars](https://img.shields.io/github/stars/jingyi0605/X-File?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/X-File?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**15. pdf-page-reverser**
+- **描述**: 浏览器本地 PDF 页面反转工具
+- **发布**: 2026年9月
+- **链接**: [GitHub](https://github.com/jingyi0605/pdf-page-reverser) ![Stars](https://img.shields.io/github/stars/jingyi0605/pdf-page-reverser?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/pdf-page-reverser?style=flat-square)
+
+</td>
+<td>
+
+**16. gpt_image_gen**
+- **描述**: 面向 GPT Image 兼容接口的图片生成与编辑工作台
+- **发布**: 2026年8月
+- **链接**: [GitHub](https://github.com/jingyi0605/gpt_image_gen) ![Stars](https://img.shields.io/github/stars/jingyi0605/gpt_image_gen?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/gpt_image_gen?style=flat-square)
+
+</td>
+</tr>
 </table>
-
-#### 新增项目（2026）
-
-9. [CodingNS](https://github.com/jingyi0605/CodingNS)：跨桌面、移动端和 Web 的 AI 编程工作台。
-10. [Codingns4DSH](https://github.com/jingyi0605/Codingns4DSH)：将多种编程 Agent、持久终端和远程访问接入 DSH。
-11. [FamilyClaw](https://github.com/jingyi0605/FamilyClaw)：以家庭成员为中心的家庭 AI 操作系统。
-12. [calPaper](https://github.com/jingyi0605/calPaper)：支持离线使用的逐行计算 PWA。
-13. [quick_fshare](https://github.com/jingyi0605/quick_fshare)：支持本地文件、SMB 和 NFS 的私有文件分享系统。
-14. [X-File](https://github.com/jingyi0605/X-File)：从 CodingNS 拆出的文档库桌面应用。
-15. [pdf-page-reverser](https://github.com/jingyi0605/pdf-page-reverser)：浏览器本地 PDF 页面反转工具。
-16. [gpt_image_gen](https://github.com/jingyi0605/gpt_image_gen)：面向 GPT Image 兼容接口的图片生成与编辑工作台。
 
 ### 📅 下一步计划
 
@@ -252,18 +313,79 @@ Currently completed **16** projects, progress: 16/100 (16%)
 
 </td>
 </tr>
+<tr>
+<td>
+
+**9. CodingNS**
+- **Description**: Cross-platform AI coding workbench for desktop, mobile, and web
+- **Release**: March 2026
+- **Link**: [GitHub](https://github.com/jingyi0605/CodingNS) ![Stars](https://img.shields.io/github/stars/jingyi0605/CodingNS?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/CodingNS?style=flat-square)
+
+</td>
+<td>
+
+**10. Codingns4DSH**
+- **Description**: DSH integration for coding agents, persistent terminals, and remote access
+- **Release**: September 2026
+- **Link**: [GitHub](https://github.com/jingyi0605/Codingns4DSH) ![Stars](https://img.shields.io/github/stars/jingyi0605/Codingns4DSH?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/Codingns4DSH?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**11. FamilyClaw**
+- **Description**: Family-first home AI operating system
+- **Release**: March 2026
+- **Link**: [GitHub](https://github.com/jingyi0605/FamilyClaw) ![Stars](https://img.shields.io/github/stars/jingyi0605/FamilyClaw?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/FamilyClaw?style=flat-square)
+
+</td>
+<td>
+
+**12. calPaper**
+- **Description**: Offline line-by-line calculation PWA
+- **Release**: October 2026
+- **Link**: [GitHub](https://github.com/jingyi0605/calPaper) ![Stars](https://img.shields.io/github/stars/jingyi0605/calPaper?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/calPaper?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**13. quick_fshare**
+- **Description**: Private file sharing for local files, SMB, and NFS
+- **Release**: June 2025
+- **Link**: [GitHub](https://github.com/jingyi0605/quick_fshare) ![Stars](https://img.shields.io/github/stars/jingyi0605/quick_fshare?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/quick_fshare?style=flat-square)
+
+</td>
+<td>
+
+**14. X-File**
+- **Description**: Standalone document-library desktop application extracted from CodingNS
+- **Release**: June 2026
+- **Link**: [GitHub](https://github.com/jingyi0605/X-File) ![Stars](https://img.shields.io/github/stars/jingyi0605/X-File?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/X-File?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**15. pdf-page-reverser**
+- **Description**: Browser-local PDF page reversal tool
+- **Release**: September 2026
+- **Link**: [GitHub](https://github.com/jingyi0605/pdf-page-reverser) ![Stars](https://img.shields.io/github/stars/jingyi0605/pdf-page-reverser?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/pdf-page-reverser?style=flat-square)
+
+</td>
+<td>
+
+**16. gpt_image_gen**
+- **Description**: Static image generation and editing workbench for GPT Image-compatible APIs
+- **Release**: August 2026
+- **Link**: [GitHub](https://github.com/jingyi0605/gpt_image_gen) ![Stars](https://img.shields.io/github/stars/jingyi0605/gpt_image_gen?style=flat-square) ![Forks](https://img.shields.io/github/forks/jingyi0605/gpt_image_gen?style=flat-square)
+
+</td>
+</tr>
 </table>
-
-#### New Projects (2026)
-
-9. [CodingNS](https://github.com/jingyi0605/CodingNS): Cross-platform AI coding workbench for desktop, mobile, and web.
-10. [Codingns4DSH](https://github.com/jingyi0605/Codingns4DSH): DSH integration for coding agents, persistent terminals, and remote access.
-11. [FamilyClaw](https://github.com/jingyi0605/FamilyClaw): Family-first home AI operating system.
-12. [calPaper](https://github.com/jingyi0605/calPaper): Offline line-by-line calculation PWA.
-13. [quick_fshare](https://github.com/jingyi0605/quick_fshare): Private file sharing for local files, SMB, and NFS.
-14. [X-File](https://github.com/jingyi0605/X-File): Standalone document-library desktop application extracted from CodingNS.
-15. [pdf-page-reverser](https://github.com/jingyi0605/pdf-page-reverser): Browser-local PDF page reversal tool.
-16. [gpt_image_gen](https://github.com/jingyi0605/gpt_image_gen): Static image generation and editing workbench for GPT Image-compatible APIs.
 
 ### 📅 Next Steps
 
